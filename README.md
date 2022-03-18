@@ -1,0 +1,1 @@
+Calculadora simples, com campos de ''Nome'', ''Altura'' e ''Peso'', além do botão ''Calcular''. A calculadora mostrará qual é o seu IMC e se você está acima ou abaixo do peso de acordo com as informações preenchidas.
